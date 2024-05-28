@@ -17,7 +17,7 @@ const allowedCors = [
   "https://students-projects.ru",
   "http://localhost:3000",
   "http://localhost:3001",
-  "https://anzori-admin.nomorepartiesco.ru"
+  "https://anzori-tsemi.nomorepartiesco.ru"
 ];
 
   
